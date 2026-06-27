@@ -1,1 +1,1 @@
-python app.py | grep "hello"
+python app.py | grep "welcome"
